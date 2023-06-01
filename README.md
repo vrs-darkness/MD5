@@ -9,7 +9,7 @@ Methods like SH-256 and many more.
 -> But Many attempts have been made to make such weak Hashing Algorithm into stronger ones by identifying which compression function would result in Collision.
 Collesion here refers to the function being not one-one 
               
-                                                         f(x1)=f(x2) where x1!=x2
+                                              f(x1)=f(x2) where x1!=x2
 -> This is just one way to crack the Algorithm. There are also few more ways such as Brute Force attack, Rainbow tables which are used to Crack open the algorithms
  firstly Brute force attack tries all the comman passwords available in the database hashes it based on the some specific algo and finally we compare the Hashes!
  Where as Rainbow tables work differently by making up chains of hashes which are also made using the comman password and then optimaly finding where does a 
